@@ -1,4 +1,80 @@
-body {
-    backgroungd-color:#015d77;
-    color: rgb(2, 2, 95);
-    
+body{
+    background-color: #210253;
+    color: rgb(255, 255, 255)
+}
+.cabecalho {
+    background-color: #383D58;
+    color: white;
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px 0;
+    }
+
+.escola-imagem{
+    width: 20%;
+ }
+
+.cabecalho-lista-item{
+    display: inline-block;
+    margin: 0 16px;
+    font-size: 24px;
+}
+
+   .formula {
+        width:10%;
+        height:40% ;
+        }
+.alyne {
+    width: 100px;
+}
+
+.tacyane {
+    width: 100px;
+}
+
+.victor {
+    width: 100px;
+}
+ .tatyane {
+    width: 100px;
+ }  
+
+.escola-imagem {
+    width: 25%;
+ }
+
+.estudantes {
+   width: 100px;
+ }
+
+.foto-perfil {
+    width: 100px;
+ } 
+
+.perfil-foto {
+    width: 100px;
+ } 
+
+.jose{
+    width: 100px;
+ }
+
+.gaby {
+    width: 100px;
+ }
+
+.monique{
+    width: 100px;
+ }
+
+.gustavo{
+    width: 100px;
+ }
+
+.estudante-div{
+    text-align: center;
+ }
+ .estudante-div{
+    text-align: center;
+ }
